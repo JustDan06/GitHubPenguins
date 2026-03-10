@@ -2,7 +2,7 @@
 
 A reproducible analysis of morphological measurements from the Palmer Penguins dataset, examining variation in body dimensions across penguin species in the Palmer Archipelago, Antarctica.
 
-<img src="https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png" width=50%>
+
 
 
 ## About the Data
@@ -19,14 +19,7 @@ This project uses data collected by [Dr Kristen Gorman](https://www.uaf.edu/cfos
 
 ## Variables Measured
 
-The dataset includes the following morphological measurements:
 
-| Variable | Range |
-|----------|-------------|
-| `bill_length_mm` | [TODO: Include range] |
-| `bill_depth_mm` | [TODO: Include range] |
-| `flipper_length_mm` | [TODO: Include range] |
-| `body_mass_g` | [TODO: Include range] |
 
 ## What the Analysis Does
 
@@ -39,12 +32,6 @@ The R script `run_analysis_SOLUTIONS.R` performs the following steps:
 
 ## Plots Produced
 
-The analysis generates a multi-panel figure combining four plots:
-
-- **Top left:** [TODO: What does this plot show?]
-- **Top right:** [TODO: What does this plot show?]
-- **Bottom left:** [TODO: What does this plot show?]
-- **Bottom right:** [TODO: What does this plot show?]
 
 ## Project Structure
 
